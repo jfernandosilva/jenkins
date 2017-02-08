@@ -30,7 +30,9 @@
         </div>
     </div>
 
-    <div ui-view></div>
+    <div class="container">
+        <div ui-view>XD</div>
+    </div>
 
     <asset:javascript src="/jenkins/jenkins.js" />
 </body>

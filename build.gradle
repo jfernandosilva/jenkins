@@ -99,6 +99,7 @@ clientDependencies {
         'bootstrap'('3.3.x', into: 'bootstrap', from: 'dist/css') {
             include 'bootstrap.css'
         }
+        'font-awesome'('4.7.0', into: 'font-awesome')
     }
 }
 
