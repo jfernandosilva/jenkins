@@ -19,7 +19,7 @@ function config($stateProvider, $urlRouterProvider) {
     $stateProvider
         .state('index', {
             url: "/",
-            template: "jenkins APP"
+            template: "jenkins APPdñlslñds"
         });
 
     $urlRouterProvider.otherwise('/');

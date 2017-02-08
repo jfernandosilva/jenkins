@@ -31,7 +31,7 @@
     </div>
 
     <div class="container">
-        <div ui-view>XD</div>
+        <div ui-view><h1>Vista principal modificada</h1></div>
     </div>
 
     <asset:javascript src="/jenkins/jenkins.js" />

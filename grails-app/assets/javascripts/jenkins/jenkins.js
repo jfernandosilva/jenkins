@@ -14,7 +14,7 @@ function configRoute($stateProvider, $urlRouterProvider) {
     $stateProvider
         .state('index', {
             url: "/",
-            template: "jenkins APP"
+            template: "<h1 class='text-danger'><b>jenkins APP</b></h1>"
         });
 }
 /*
